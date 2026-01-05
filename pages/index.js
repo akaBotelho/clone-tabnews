@@ -3,7 +3,7 @@ function Home() {
     <div>
       <h1>Welcome to TabNews Clone</h1>
     </div>
-  )
+  );
 }
 
-export default Home
+export default Home;
